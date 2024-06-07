@@ -1,3 +1,3 @@
 # Flask Hello world project
 
-version 1
+version 2
